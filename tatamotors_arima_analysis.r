@@ -1,4 +1,4 @@
-#
+# required package installation
 install.packages("quantmod")
 library(quantmod)
 install.packages("tidyquant")
